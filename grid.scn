@@ -48,20 +48,9 @@
     }
     {
       "position": [
-        2,
-        1,
+        0,
+        0,
         0
-      ],
-      "quaternion": [
-        0,
-        -0.7071067811865475,
-        0,
-        0.7071067811865475
-      ],
-      "scale": [
-        2,
-        2,
-        2
       ],
       "physics": true,
       "start_url": "https://github.com/plankatron/scenes/grid.glb",
