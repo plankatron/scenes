@@ -55,6 +55,6 @@
       "physics": true,
       "start_url": "https://github.com/plankatron/scenes/grid.glb",
       "dynamic": false
-    },
+    }
   ]
 }
