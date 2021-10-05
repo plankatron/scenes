@@ -30,7 +30,7 @@
         0
       ],
       "physics": true,
-      "start_url": "https://plankatron.github.io/scenes/home_sceneglb",
+      "start_url": "https://plankatron.github.io/scenes/home_scene.glb",
       "dynamic": false
     }
   ]
