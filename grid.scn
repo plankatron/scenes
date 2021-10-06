@@ -60,7 +60,7 @@
         0
       ],
       "physics": true,
-      "start_url": "https://plankatron.github.io/scenes/grid_terrain.glb",
+      "start_url": "https://plankatron.github.io/scenes/grid.glb",
       "dynamic": false
     }
   ]
