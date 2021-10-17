@@ -53,6 +53,15 @@
       "start_url": "https://webaverse.github.io/app/public/avatars/scillia.vrm",
       "dynamic": true
     },
+        {
+      "position": [
+        0,
+        0,
+        -2
+      ],
+      "start_url": "https://plankatron.github.io/scenes/street_v1_texta.glb",
+      "dynamic": true
+    },
     {
       "position": [
         0,
